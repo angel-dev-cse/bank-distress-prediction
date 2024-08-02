@@ -18,4 +18,4 @@ Instructions on how to run the project:
 3. Run the main script using `python main.py`.
 
 ## Google Colab Notebook
-[Google Colab Notebook](https:/colab.research.google.com/drive/11Y7IiBt3fiE0obpdDUig-7l9zLYdYaQg?usp=sharing)
+[Google Colab Notebook](https://colab.research.google.com/drive/11Y7IiBt3fiE0obpdDUig-7l9zLYdYaQg?usp=sharing)
