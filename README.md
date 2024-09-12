@@ -5,7 +5,7 @@ Developed a predictive model to assess the likelihood of bank distress using mac
 
 ## Techniques and Tools
 - Data preprocessing, feature engineering,
-- Modesl: gradient boosting, adaboost, SVM, logistic regression, random forest, K-nearest neighbors, decision tree and CNN.
+- Models: gradient boosting, adaboost, SVM, logistic regression, random forest, K-nearest neighbors, decision tree and CNN.
 - Tools: Python (pandas, scikit-learn).
 
 ## Results
